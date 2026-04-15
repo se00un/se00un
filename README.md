@@ -43,7 +43,7 @@ Undergraduate student interested in Natural Language Processing, Machine Learnin
 
 | Date | Title | Role | DOI |
 |-----|-----|-----|-----|
-| 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | Experiment Design, Model Development, Web Platform Development | Preparing |
+| 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | Experiment Design, Model Development, Web Platform Development | https://doi.org/10.1145/3772363.3798335 |
 
 
 
