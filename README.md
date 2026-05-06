@@ -3,7 +3,7 @@
 <h2 align="center">Seoeun Park (박서은)</h2>
 
 <p align="center">
-Undergraduate student interested in Natural Language Processing, Machine Learning, and Explainable AI
+Undergraduate student
 </p>
 
 ---
