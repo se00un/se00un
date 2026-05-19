@@ -1,4 +1,4 @@
-![Seoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=se00un&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=se00un&show_icons=true&theme=default)
 
 <h2 align="center">Seoeun Park (박서은)</h2>
 
