@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se00un&layout=compact&hide_border=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/se00un&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)
 
 <h2 align="center">Seoeun Park (박서은)</h2>
 
@@ -46,8 +46,14 @@ I am interested in understanding user behavior and connecting data-driven insigh
 | 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | AI 기반 댓글 순화 moderation 시스템 개발 및 사용자 실험 플랫폼 구축 | Experiment Design, Model Development, Web Platform Development | Python, FastAPI, React, KoBERT, KoBART | [10.1145/3772363.3798335](https://doi.org/10.1145/3772363.3798335) |
 
 
+### 🏆 Awards
 
+| Date | Competition | Award |
+| --- | --- | --- |
+| 2025 | 제1회 방송통신위원회 공공데이터 분석활용 공모전 아이디어 기획부문 | 최우수상 |
+| 2024 | 제2회 데이터사이언스융합전공 해커톤 | 대상 |
 <br>
+
 
 ### 🚀 Projects
 <details>
