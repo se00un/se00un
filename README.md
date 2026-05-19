@@ -5,13 +5,12 @@
 <p align="center">
 Undergraduate student
 
-  I am interested in understanding user behavior and connecting data-driven insights to real service improvement.
 </p>
 
 ---
 
 ### 🔎 Interest
-
+I am interested in understanding user behavior and connecting data-driven insights to real service improvement.
 - Natural Language Processing (NLP)
 - Machine Learning
 - Explainable AI (XAI)
@@ -39,9 +38,6 @@ Undergraduate student
 
 
 <br>
-
-### 🎓 Research Experience
-
 
 ### 🎓 Research Experience
 
