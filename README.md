@@ -41,9 +41,11 @@ Undergraduate student
 ### 🎓 Research Experience
 
 
-| Date | Title | Role | DOI |
-|-----|-----|-----|-----|
-| 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | Experiment Design, Model Development, Web Platform Development | https://doi.org/10.1145/3772363.3798335 |
+### 🎓 Research Experience
+
+| Date | Title | Description | Role | Stack | DOI |
+| --- | --- | --- | --- | --- | --- |
+| 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | AI 기반 댓글 순화 moderation 시스템 개발 및 사용자 실험 플랫폼 구축 | Experiment Design, Model Development, Web Platform Development | Python, FastAPI, React, KoBERT, KoBART | [10.1145/3772363.3798335](https://doi.org/10.1145/3772363.3798335) |
 
 
 
