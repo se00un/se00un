@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=se00un&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=se00un&layout=compact&hide_border=true)
 
 <h2 align="center">Seoeun Park (박서은)</h2>
 
