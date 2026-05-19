@@ -1,75 +1,82 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/se00un&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=header&width=100%)
 
-<h2 align="center">Seoeun Park (박서은)</h2>
+<div align="center">
 
-<p align="center">
-Undergraduate student
+<h2>Seoeun Park · 박서은</h2>
 
-</p>
-
----
-
-### 🔎 Interest
-I am interested in understanding user behavior and connecting data-driven insights to real service improvement.
-- Natural Language Processing (NLP)
-- Machine Learning
-- Explainable AI (XAI)
-- Human-AI Interaction
-
----
-
-### 🛠 Skills
+<p>Undergraduate Student @ Sungkyunkwan University</p>
 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
+  <a href="mailto:pse0420@g.skku.edu">
+    <img src="https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://blog.naver.com/develop0420">
+    <img src="https://img.shields.io/badge/Blog-FFB6C1?style=flat-square&logo=naver&logoColor=white"/>
+  </a>
 </p>
 
+<p><i>"I'm interested in understanding user behavior and connecting data-driven insights to real service improvement."</i></p>
+
+</div>
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 <br>
 
+---
+
 ### 🎓 Research Experience
 
-| Date | Title | Description | Role | Stack | DOI |
-| --- | --- | --- | --- | --- | --- |
-| 2026 | Refinement-based AI Moderation Research (ACM CHI 2026 Poster) | AI 기반 댓글 순화 moderation 시스템 개발 및 사용자 실험 플랫폼 구축 | Experiment Design, Model Development, Web Platform Development | Python, FastAPI, React, KoBERT, KoBART | [10.1145/3772363.3798335](https://doi.org/10.1145/3772363.3798335) |
+| Date | Title | Role | Stack | DOI |
+| --- | --- | --- | --- | --- |
+| 2026 | Refinement-based AI Moderation Research <br> *ACM CHI 2026 Poster* | Experiment Design, Model Development, Web Platform Development | Python · FastAPI · React · KoBERT · KoBART | [10.1145/3772363.3798335](https://doi.org/10.1145/3772363.3798335) |
 
+<br>
+---
 
 ### 🏆 Awards
 
 | Date | Competition | Award |
 | --- | --- | --- |
-| 2025 | 제1회 방송통신위원회 공공데이터 분석활용 공모전 아이디어 기획부문 | 최우수상 |
-| 2024 | 제2회 데이터사이언스융합전공 해커톤 | 대상 |
-<br>
+| 2025 | 제1회 방송통신위원회 공공데이터 분석활용 공모전 아이디어 기획부문 | 🥇 최우수상 |
+| 2024 | 제2회 데이터사이언스융합전공 해커톤 | 🥇 대상 |
 
+<br>
+---
 
 ### 🚀 Projects
-<details>
 
 | Date | Title | Repository | Description | Stack |
 | --- | --- | --- | --- | --- |
-| 2025-2 | Spillover Analysis of Hallyu Content on Consumer Exports | - | 한류 콘텐츠와 소비재 수출 데이터를 결합해 콘텐츠 확산이 소비재 수출에 미치는 파급효과를 분석 | Python, ML, NLP |
-| 2025-1 | Media Content Data Analysis Web Application | [25-1-URP-KCC](https://github.com/se00un/25-1-URP-KCC) | 아동 미디어 이용 패턴을 군집 분석하고, SHAP 기반 해석을 통해 유형별 미디어 사용 특성을 시각적으로 제공하는 웹 서비스 구현 | Python, Streamlit, SHAP |
-| 2025-1 | Fake Real Estate Classification | [25-1-Dscover-realestatepredic](https://github.com/se00un/25-1-Dscover-realestatepredic) | 부동산 허위매물 탐지를 위한 분류 모델 개발 및 데이터 기반 특징 분석을 통한 예측 성능 개선 | Python, ML |
-| 2024-2 | Web novel Popularity Prediction | [24-2-Webpredict](https://github.com/se00un/24-2-Webpredict) | 웹소설 흥행에 영향을 미치는 요소를 분석하고, 사용자 반응 데이터를 기반으로 작품의 성공 가능성을 예측하는 모델 개발 | Python, NLP, koBERT |
-| 2024-2 | Urban Issue Analysis Using Smart City Data | - | 스마트시티 공공데이터를 활용해 도시 문제를 분석하고 데이터 기반 정책 아이디어 도출 | Python |
-| 2024-2 | Income Prediction Using Demographic Data | [24-2-Dacon-Incompredic](https://github.com/se00un/24-2-Dacon-Incomepredic) | 인구통계 데이터를 기반으로 소득 수준을 예측하고 결측치 처리 및 앙상블 기법을 활용해 성능 개선 | Python, ML |
-| 2024-1 | Employment Crisis Region Prediction Analysis | [24-1-JobSecure](https://github.com/se00un/24-1-JobSecure) | 고용 데이터를 활용해 지역별 고용위기 가능성을 예측하고 시계열 분석 기반으로 일자리 미스매치 흐름 분석 | Python, ARIMA, LSTM |
-| 2024-1 | Building Energy Consumption Prediction | [24-1-Dacon-Electricitypredic](https://github.com/se00un/24-1-Dacon-Electricitypredic) | 건물 특성·날씨·시간 데이터를 활용해 전력 사용량을 예측하고 모델별 성능 비교를 통해 최적 모델 도출 | Python, ML |
+| 2025-2 | Spillover Analysis of Hallyu Content on Consumer Exports | — | 한류 콘텐츠와 소비재 수출 데이터를 결합해 파급효과 분석 | Python · ML · NLP |
+| 2025-1 | Media Content Data Analysis Web Application | [25-1-URP-KCC](https://github.com/se00un/25-1-URP-KCC) | 아동 미디어 이용 패턴 군집 분석 및 SHAP 기반 해석 웹 서비스 구현 | Python · Streamlit · SHAP |
+| 2025-1 | Fake Real Estate Classification | [25-1-Dscover-realestatepredic](https://github.com/se00un/25-1-Dscover-realestatepredic) | 부동산 허위매물 탐지 분류 모델 개발, LightGBM private score 0.8905 | Python · ML |
+| 2024-2 | Web novel Popularity Prediction | [24-2-Webpredict](https://github.com/se00un/24-2-Webpredict) | 웹소설 흥행 요인 분석 및 koBERT 임베딩 기반 성공 가능성 예측 | Python · NLP · koBERT |
+| 2024-2 | Urban Issue Analysis Using Smart City Data | — | 스마트시티 공공데이터 활용 도시 문제 분석 및 정책 아이디어 도출 | Python |
+| 2024-2 | Income Prediction Using Demographic Data | [24-2-Dacon-Incomepredic](https://github.com/se00un/24-2-Dacon-Incomepredic) | 인구통계 기반 소득 분류, MICE 결측치 처리 및 Stacking Ensemble 적용 | Python · ML |
+| 2024-1 | Employment Crisis Region Prediction Analysis | [24-1-JobSecure](https://github.com/se00un/24-1-JobSecure) | 고용노동부 공공데이터 기반 고용위기지역 예측 및 일자리 미스매치 지수 산출 | Python · ARIMA · LSTM |
+| 2024-1 | Building Energy Consumption Prediction | [24-1-Dacon-Electricitypredic](https://github.com/se00un/24-1-Dacon-Electricitypredic) | 건물·날씨·시간 데이터 기반 전력 사용량 예측, CatBoost 최적 성능 달성 | Python · ML |
 
-</details>
-<br>
+---
+
+### 📫 Contact
+
+- 📧 pse0420@g.skku.edu
+- 📝 [Blog](https://blog.naver.com/develop0420)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer)
 
 
