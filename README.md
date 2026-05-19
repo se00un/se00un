@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=header&width=100%)
-
 <div align="center">
 
 <h2>Seoeun Park · 박서은</h2>
@@ -7,15 +5,13 @@
 <p>Undergraduate Student @ Sungkyunkwan University</p>
 
 <p>
-  <a href="mailto:pse0420@g.skku.edu">
-    <img src="https://img.shields.io/badge/Email-FFB6C1?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://blog.naver.com/develop0420">
-    <img src="https://img.shields.io/badge/Blog-FFB6C1?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Data_Analysis-🔍-FFB6C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-💬-FFB6C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-🤖-FFB6C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Human_AI_Interaction-🧠-FFB6C1?style=flat-square"/>
 </p>
 
-<p><i>"I'm interested in understanding user behavior and connecting data-driven insights to real service improvement."</i></p>
+<p><i>"Hi! I'm interested in understanding user behavior and connecting data-driven insights to real service improvement."</i></p>
 
 </div>
 
@@ -45,6 +41,7 @@
 | 2026 | Refinement-based AI Moderation Research <br> *ACM CHI 2026 Poster* | Experiment Design, Model Development, Web Platform Development | Python · FastAPI · React · KoBERT · KoBART | [10.1145/3772363.3798335](https://doi.org/10.1145/3772363.3798335) |
 
 <br>
+
 ---
 
 ### 🏆 Awards
@@ -55,6 +52,7 @@
 | 2024 | 제2회 데이터사이언스융합전공 해커톤 | 🥇 대상 |
 
 <br>
+
 ---
 
 ### 🚀 Projects
@@ -72,11 +70,5 @@
 
 ---
 
-### 📫 Contact
-
-- 📧 pse0420@g.skku.edu
-- 📝 [Blog](https://blog.naver.com/develop0420)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer)
 
 
