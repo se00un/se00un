@@ -53,56 +53,90 @@
 
 <br>
 
+
 ---
 
-### 🚀 Projects
+### ⭐ Featured Projects
 
-<br>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Spillover Analysis of Hallyu Content on Consumer Exports** · `2025-2`
-한류 콘텐츠와 소비재 수출 데이터를 결합해 파급효과 분석 · `Python` `ML` `NLP`
+** Spillover Analysis of Hallyu Content on Consumer Exports**
+`2025-2`
 
-<br>
+Google Trends와 관세청 데이터를 결합하여 한류 콘텐츠가 소비재 수출에 미치는 파급효과를 분석
 
-**Media Content Data Analysis Web Application** · `2025-1`
-아동 미디어 이용 패턴 군집 분석 및 SHAP 기반 해석 웹 서비스 구현 · `Python` `Streamlit` `SHAP`
+**Methods**
+Panel Data Analysis · Fixed Effect Regression · Granger Causality · VAR-IRF · K-Means Clustering
+
+**Key Insights**
+- 14,736개 패널 데이터 구축 및 분석
+- BTS Dynamite 이후 식품 수출 증가 효과 확인 (F=288.59, p<.001)
+- K-pop은 단기 소비재 구매를, K-drama는 약 5개월 후 패션 소비를 촉진
+- 콘텐츠 유형별로 상이한 수출 파급 메커니즘 확인
+
+</td>
+<td width="33%" valign="top">
+
+** AI Moderation Behavioral Analysis**
+`ACM CHI EA 2026` · `2025-1`
+
+AI 댓글 중재 전략이 사용자 행동에 미치는 영향을 분석하기 위한 실험 플랫폼 구축 및 행동 데이터 분석
+
+**Methods**
+FastAPI · SQL · Behavioral Experiment · KoELECTRA · KoBART
+
+**Key Insights**
+- 7개 중재 조건 실험 수행 (N=50)
+- AI 개입 방식에 따라 사용자 수용 행동 차이 확인
+- 반복 개입 시 개입 피로(Intervention Fatigue) 발생
+- 연구 결과 ACM CHI EA 2026 게재
+
+[![DOI](https://img.shields.io/badge/ACM%20CHI%202026-EA-blue?style=flat-square)](https://doi.org/10.1145/3772363.3798335)
+
+</td>
+<td width="33%" valign="top">
+
+**👶 Media Content Data Analysis Web Application**
+`방송통신위원회 공공데이터 분석활용 공모전 최우수상` · `2025-1`
+
+아동 미디어 이용 데이터를 군집화하고 SHAP을 활용해 결과를 해석하는 웹 서비스 개발
+
+**Methods**
+Clustering · SHAP · Streamlit · XAI
+
+**Key Insights**
+- 아동 미디어 이용 유형 자동 군집화
+- 이용시간보다 이용 패턴이 행동 특성을 더 잘 설명
+- SHAP 기반 설명가능 AI LLM 리포트 제공
+
 [![25-1-URP-KCC](https://img.shields.io/badge/25--1--URP--KCC-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/25-1-URP-KCC)
 
-<br>
+</td>
+</tr>
+</table>
 
-**Fake Real Estate Classification** · `2025-1`
-부동산 허위매물 탐지 분류 모델 개발, LightGBM private score 0.8905 · `Python` `ML`
-[![25-1-Dscover-realestatepredic](https://img.shields.io/badge/25--1--Dscover--realestatepredic-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/25-1-Dscover-realestatepredic)
+---
 
-<br>
+### 📂 Other Projects
 
-**Web novel Popularity Prediction** · `2024-2`
-웹소설 흥행 요인 분석 및 koBERT 임베딩 기반 성공 가능성 예측 · `Python` `NLP` `koBERT`
-[![24-2-Webpredict](https://img.shields.io/badge/24--2--Webpredict-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-2-Webpredict)
+| Date | Project | Description | Methods | Key Insights | GitHub |
+| --- | --- | --- | --- | --- | --- |
+| `26-1` | **MultiNorm** | 다국어 텍스트 정규화 | Rule-based · MFR · LLM | 17개 언어 대상 정규화 성능 개선 및 언어별 오류 패턴 분석 | |
+| `26-1` | **Seongnam Public Data Dashboard** | 교육 인프라 과밀도 분석 대시보드 | GIS · Visualization · Dashboard | 학령인구 35,723명(37.7%) 규모의 교육 사각지대 확인 |[![repo]() |
+| `26-1` | **Smart City Urban Issue Analysis** | 노인 복지시설 접근성 분석 | Spatial Analysis · Public Data | 복지 사각지대 식별 및 최적 입지 제안 | |
+| `25-1` | **Fake Real Estate Classification** | 부동산 허위매물 탐지 | LightGBM | Private Score 0.8905 달성 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/25-1-Dscover-realestatepredic) |
+| `24-2` | **Income Prediction Using Demographic Data** | 인구 데이터 기반 소득 분류 | MICE · Isolation Forest · Stacking Ensemble | Accuracy 0.8332 달성, 결측치 처리 및 변수 재설계 전략 비교 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-2-Dacon-Incomepredic) |
+| `24-2` | **Web Novel Popularity Prediction** | 웹소설 흥행 가능성 예측 | koBERT · NLP | 텍스트 임베딩을 활용한 흥행 요인 분석 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-2-Webpredict) |
+| `24-1` | **Employment Crisis Region Prediction** | 미래 고용위기지역 및 일자리 미스매치 예측 | ARIMA · LSTM · Time Series Forecasting | 지역·직종 단위 고용 미스매치 지수 설계 및 3단계 고용위기 경보체계 제안 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-1-JobSecure) |
+| `24-1` | **Building Energy Consumption Prediction** | 건물 전력 사용량 예측 | CatBoost · XGBoost · Feature Engineering | 건물 규모가 전력 사용량의 핵심 요인임을 확인하고 소비 패턴 유형화 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-1-Dacon-Electricitypredic) |
 
-<br>
+---
 
-**Urban Issue Analysis Using Smart City Data** · `2024-2`
-스마트시티 공공데이터 활용 도시 문제 분석 및 정책 아이디어 도출 · `Python`
 
-<br>
 
-**Income Prediction Using Demographic Data** · `2024-2`
-인구통계 기반 소득 분류, MICE 결측치 처리 및 Stacking Ensemble 적용 · `Python` `ML`
-[![24-2-Dacon-Incomepredic](https://img.shields.io/badge/24--2--Dacon--Incomepredic-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-2-Dacon-Incomepredic)
-
-<br>
-
-**Employment Crisis Region Prediction Analysis** · `2024-1`
-고용노동부 공공데이터 기반 고용위기지역 예측 및 일자리 미스매치 지수 산출 · `Python` `ARIMA` `LSTM`
-[![24-1-JobSecure](https://img.shields.io/badge/24--1--JobSecure-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-1-JobSecure)
-
-<br>
-
-**Building Energy Consumption Prediction** · `2024-1`
-건물·날씨·시간 데이터 기반 전력 사용량 예측, CatBoost 최적 성능 달성 · `Python` `ML`
-[![24-1-Dacon-Electricitypredic](https://img.shields.io/badge/24--1--Dacon--Electricitypredic-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/24-1-Dacon-Electricitypredic)
-
+- Blog: [blog.naver.com/develop0420](https://blog.naver.com/develop0420)
 ---
 
 
