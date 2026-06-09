@@ -96,6 +96,7 @@ FastAPI · SQL · Behavioral Experiment · KoELECTRA · KoBART
 - 연구 결과 ACM CHI EA 2026 게재
 
 [![ACM CHI 2026](https://img.shields.io/badge/ACM%20CHI%202026-EA-FF6B9D?style=flat-square)](https://doi.org/10.1145/3772363.3798335)
+[![repo-backend](https://img.shields.io/badge/repo--backend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/25-1-Capstone-Polite-Web) [![repo-frontend](https://img.shields.io/badge/repo--frontend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/25-1-Capstone-PoliteWeb-Front)
 
 </td>
 <td width="33%" valign="top">
