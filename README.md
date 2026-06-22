@@ -126,9 +126,9 @@ Clustering · SHAP · Streamlit · XAI
 ---
 
 ### 📂 Other Projects
-
 | Project | Description | Methods | Key Insights | GitHub |
 | --- | --- | --- | --- | --- |
+| **TripLog** ![26-1](https://img.shields.io/badge/26--1-FF6B9D?style=flat-square) | 여행 통합 관리 플랫폼 | FastAPI · WebSocket · LLM · OCR | 영수증 OCR 자동화, 실시간 그룹 협업, AI 여행 리포트 생성 | [![backend](https://img.shields.io/badge/backend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/26-1-Capstone-Backend) [![frontend](https://img.shields.io/badge/frontend-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/26-1-Capstone) |
 | **MultiNorm** ![26-1](https://img.shields.io/badge/26--1-FF6B9D?style=flat-square) | 다국어 텍스트 정규화 | Rule-based · MFR · LLM | 17개 언어 대상 정규화 성능 개선 및 언어별 오류 패턴 분석 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/26-1-MultiNorm) |
 | **Seongnam Public Data Dashboard** ![26-1](https://img.shields.io/badge/26--1-FF6B9D?style=flat-square) | 교육 인프라 과밀도 분석 대시보드 | GIS · Visualization · Dashboard | 학령인구 35,723명(37.7%) 규모의 교육 사각지대 확인 | [![repo](https://img.shields.io/badge/repo-555555?style=flat-square&logo=github&logoColor=white)](https://github.com/se00un/26-1-Seongnam-Visualization) |
 | **Smart City Urban Issue Analysis** ![26-1](https://img.shields.io/badge/26--1-FF6B9D?style=flat-square) | 노인 복지시설 접근성 분석 | Spatial Analysis · Public Data | 복지 사각지대 식별 및 최적 입지 제안 | |
